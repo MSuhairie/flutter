@@ -1,0 +1,2 @@
+Langkah Bikin Project Baru di Flutter
+- buka terminal git atau cmd setelah itu masukkan perintah : flutter create <nama_folder>
