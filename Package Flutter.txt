@@ -1,0 +1,4 @@
+Package Flutter
+
+- uuid.flutter adalah package untuk id acak otomatis
+- intl.flutter adalah package untuk mengubah format tanggal dan waktu
